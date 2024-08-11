@@ -1,0 +1,15 @@
+{
+	"name": "Free Code Camp Backend Certification",
+	"author":"Jacob Mason",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JacobMason83/fccBackEnd.git"
+	}
+}
